@@ -17,3 +17,5 @@ This is a micro-service dedeicated for user related functionalities.
  - **Testing**:  JUnit and Mockito.
  - **CI/CD)**: GitHub Actions for automated testing and deployment of user service.
  - **Performance Optimization**: VisualVM for profiling, later may be JProfiler or YourKit for profiling and optimizing the performance of your application.
+
+##Requirements
